@@ -1,4 +1,4 @@
-package org.example;
+package cr.una.controller;
 
 public class Main {
     public static void main(String[] args) {
