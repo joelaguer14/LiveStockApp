@@ -2,7 +2,7 @@ package cr.una.dao;
 
 public class AnimalDAO {
     //something like:
-    
+
 
 //    private Session session = HibernateUtil.getSessionFactory().openSession();
 //
